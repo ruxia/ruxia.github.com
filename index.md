@@ -1,6 +1,6 @@
 ---
 layout: index 
-title: MarkChen的博客
+title: Ruxia的博客
 ---
 
 {% for post in site.posts %}
