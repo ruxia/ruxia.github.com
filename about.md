@@ -1,3 +1,4 @@
+
 ---
 title: About me
 layout: default
@@ -13,4 +14,4 @@ comments: yes
 - 个人邮箱:[huizhen.jiang@gmail.com](huizhen.jiang@gmail.com "huizhen.jiang@gmail.com")   
 - 新浪微博: [http://weibo.com/536150127](http://weibo.com/536150127 "http://weibo.com/536150127")  
 
-![](/image/face.JPG)
+![](/image/face.jpg)
