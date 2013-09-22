@@ -8,7 +8,7 @@ comments: yes
 **Huizhen Jiang**(姜会珍)
 
 ---
-- 2010 - 2014 软件工程系 @[大连理工大学](http://www.dlut.edu.cn/)   
+- 2010 - 2014 软件工程 @[大连理工大学](http://www.dlut.edu.cn/)   
 
 ----
 - 个人邮箱:[huizhen.jiang@gmail.com](huizhen.jiang@gmail.com "huizhen.jiang@gmail.com")   
