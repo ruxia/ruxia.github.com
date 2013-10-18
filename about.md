@@ -1,10 +1,9 @@
-
 ---
-title: About me
 layout: default
+title: About me
 comments: yes
 ---
-  
+
 **Huizhen Jiang**(姜会珍)
 
 ---
