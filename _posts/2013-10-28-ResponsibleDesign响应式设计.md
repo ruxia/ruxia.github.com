@@ -25,6 +25,7 @@ Ethan Marcotte（伊桑·马科特）于2010年5月提出Responsible Design的�
 - 曾为纽约杂志(New York Magazine)、哈佛大学以及世界互联网组织W3C等客户服务。
 - 后加入Happy Cog—是为企业家服务的高度优化的网站托管供应商，专门为高端拥有巨大流量的网站效力。
 - 参与编辑Bulletproof Web Design，Designing With Web Standards
+
 ##Responsible Design
 ---
 
