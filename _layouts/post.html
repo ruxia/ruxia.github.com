@@ -8,17 +8,26 @@ layout: default
 <section class="meta">
 <hr/>
 <span class="author">
-  <a href="http://ruxia.github.io/" title="go to homepage">{{ site.author }}</a> - 软件学院研究生，现就读于<a rel="license" href="http://www.dlut.edu.cn/" title="大连理工大学">大连理工大学</a>。
+  <a href="http://ruxia.github.io/">{{ site.author }}</a> - 软件学院研究生，现就读于<a rel="license" href="http://www.dlut.edu.cn/">大连理工大学</a>。
+</span>
+<span class="license">
+  Major in <a rel="license" href="http://dutphonelab.org/jianghuizhen/">Friend Recommendation and Analysis</a> and Interested in <a rel="license"> Product Design</a>. 
 </span>
 <br />
-<span class="license">
-  Major in <a rel="license" href="http://dutphonelab.org/jianghuizhen/" title="Lisa's personal homepage">Friend Recommendation and Analysis</a>
+{% if page.categories %}
+<span class="categories">
+  Published in categories
+  {% for cat in page.categories %}
+  <a href="/categories/#{{ cat }}" title="{{ cat }}">{{ cat }}</a>&nbsp;
+  {% endfor %}
 </span>
-<span class="license">
-  in <a rel="license" href="http://dutphonelab.org/" title="DUTPhoneLab">DUTPhoneLab</a>
-</span>
-<span class="license">
-  under <a rel="license" href="http://baike.baidu.com/subview/6954399/13647476.htm?fr=aladdin" title="Big Data">Big Scholar Data</a>
+{% endif %}
+{% if page.tags %}
+<span class="tags">
+  tagged with 
+  {% for tag in page.tags %}
+  <a href="/tags/#{{ tag }}" title="{{ tag }}">{{ tag }}</a>&nbsp;
+  {% endfor %}
 </span>
 {% endif %}
 <span class="time">
