@@ -68,7 +68,6 @@ css3有了Media query，Media query已经被大多数移动终端支持。
 
 ###Media query在网页中的位置
 
-
 1. 在link中使用@media：
 
 `<link rel="stylesheet" type="text/css" media="only screen and (max-width: 480px), only screen and (max-device-width: 480px)" href="link.css"/>`

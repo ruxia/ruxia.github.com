@@ -11,5 +11,6 @@ comments: yes
 github : [https://github.com/ruxia](https://github.com/ruxia)   
 Personal Homepage: [Lisa's Homepage](http://dutphonelab.org/jianghuizhen/)
 
-###作品
+###设计作品
 每日一语: [@小米应用商城](http://app.mi.com/detail/61735)
+Beannote: [http://www.beannote.com/](http://www.beannote.com/)
