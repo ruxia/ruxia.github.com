@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Responsible Design响应式设计
-summary: 简而言之，一个网站能够兼容多个终端。包括响应式布局和响应式内容，这里主要讲的是响应式布局。
 categories:
 - design
 tags:
