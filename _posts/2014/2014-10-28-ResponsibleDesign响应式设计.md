@@ -2,7 +2,7 @@
 layout: post
 title: Responsible Design响应式设计
 categories:
-- design
+- Design
 tags:
 - Responsible Design
 - design
