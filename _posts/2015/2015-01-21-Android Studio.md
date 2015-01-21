@@ -76,7 +76,6 @@ Android Studio更新速度比较快（可见下图），目前最新版本为v1.
 > - Google Cloud Tools For Android Studio（Google云）
 > - Google Login（Google账号登录）
 > - hg4idea（Mercurial版本控制系统）
-
 ![](/image/plugins.png)  
 注意：如果禁用了上图列表2和3选项，将导致不能使用导入官方样例的功能（import sample）。  
 
