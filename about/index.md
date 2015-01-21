@@ -13,5 +13,5 @@ Personal Homepage: [Lisa's Homepage](http://dutphonelab.org/jianghuizhen/)
 
 ###设计作品
 每日一语: [@小米应用商城](http://app.mi.com/detail/61735)  
+镜子（洁镜）: [@小米应用商城](http://app.mi.com/detail/82085)  
 Beannote: [http://www.beannote.com/](http://www.beannote.com/)  
-镜子（洁镜）: [@小米应用商城](http://app.mi.com/detail/82085)
