@@ -31,14 +31,14 @@ Android Studio更新速度比较快（可见下图），目前最新版本为v1.
 ###JDK的安装
 关于JDK的安装没什么需要特殊注意的，最容易出现错误的就是配置环境变量的过程。本人由于当时少了一个\，纠结了很久找不出问题，如此简单的过程这样实在是费时费心。所以这里给出精确的环境变量配置，望给大家的配置过程提供一些便利。  
 共有三个环境变量需要配置，首先，找到“**计算机→属性→高级系统设置→高级→环境变量→系统变量**”，然后进行下面三步：  
-> 1. *JAVA_HOME*，*D:\Program Files\Java\jdk1.8.0_25\\*   
+> 1. *JAVA_HOME*→*D:\Program Files\Java\jdk1.8.0_25\\*   
 > 新建*JAVA_HOME*变量，变量值填写jdk的安装目录，比如 *D:\Program Files\Java\jdk1.8.0_25\\*。（我当时就是忽视了最后的\导致的问题）
 > 
-> 2. *Path*，*%JAVA_HOME%\bin;%JAVA_HOME%\jre\bin;*    
+> 2. *Path*→*%JAVA_HOME%\bin;%JAVA_HOME%\jre\bin;*    
 > 找到*Path*变量，编辑，在变量值最后输入 *%JAVA_HOME%\bin;%JAVA_HOME%\jre\bin;*（注意原来Path的变量值末尾有没有分号，如果没有，先输入分号再输入上面的代码）   
 > ![](/image/path.png) 
 > 
-> 3. *CLASSPATH*，*.;%JAVA_HOME%\lib;%JAVA_HOME%\lib\tools.jar*    
+> 3. *CLASSPATH*→*.;%JAVA_HOME%\lib;%JAVA_HOME%\lib\tools.jar*    
 > 新建*CLASSPATH*变量，变量值填写 *.;%JAVA_HOME%\lib;%JAVA_HOME%\lib\tools.jar*     
 ![](/image/classpath.png)  
 
@@ -77,12 +77,14 @@ Android Studio更新速度比较快（可见下图），目前最新版本为v1.
 > - Google Login（Google账号登录）
 > - hg4idea（Mercurial版本控制系统）
 
-注意：如果禁用了2和3选项，将导致不能使用导入官方样例的功能（import sample）。  
-![](/image/plugins.png)
+![](/image/plugins.png)  
+注意：如果禁用了上图列表2和3选项，将导致不能使用导入官方样例的功能（import sample）。  
 
 2. 插件安装。Settings --> Plugins --> Browse repositories，搜索安装。比如我安装的Git版本控制插件.gitignore support，如上图。   
 注意：如果使用Git进行版本控制，需要设置Git的安装文件目录。Settings --> Version Control --> Git，在右侧中选择Git的安装目录。  
 ![](/image/versioncontrol.png)
 
 ------
-以上是我第一次安装设置Android Studio过程中的一些经验和技巧，希望可以帮助新手们更快的上手，也欢迎大家补充。
+
+
+> 以上是我第一次安装设置Android Studio过程中的一些经验和技巧，希望可以帮助新手们更快的上手，也欢迎大家补充。
