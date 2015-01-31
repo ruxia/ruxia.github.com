@@ -55,8 +55,8 @@ tags:
 
 2. icon具体使用代码可到官网查询，[官网icon](http://fontawesome.io/icons/ "http://fontawesome.io/icons/")。  
  
- - 首先找到合适的图标 ![](/image/particons.png)
- - 可见其代码  ![](/image/webcode.png)
+>  - 首先找到合适的图标 ![](/image/particons.png)
+>  - 可见其代码  ![](/image/webcode.png)
 
 
 ------
