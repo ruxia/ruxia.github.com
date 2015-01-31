@@ -53,13 +53,12 @@ tags:
 1. 几个小例子，如下图可见。
 ![](/image/webicons.png)
 
-2. icon具体使用代码可到官网查询，[官网icon](http://fontawesome.io/icons/ "http://fontawesome.io/icons/")。  
- 
->  - 首先找到合适的图标 ![](/image/particons.png)
->  - 可见其代码  ![](/image/webcode.png)
+2. icon具体使用代码可到官网查询，[官网icon](http://fontawesome.io/icons/ "http://fontawesome.io/icons/")。     
+  - 首先找到合适的图标 ![](/image/particons.png)
+  - 可见其代码  ![](/image/webcode.png)
 
 
 ------
 
 
-> 以上是我觉得font awesome可以给大家带来福利的两个方面，希望可以给开发者们带来灵感与便利。
+> 以上是我觉得font awesome可以给大家带来福利的两个方面，希望可以给开发者们带来灵感与便利。 最后推荐个Axure 学习网站 [http://www.iaxure.com/](http://www.iaxure.com/)。
